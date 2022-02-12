@@ -1,4 +1,4 @@
-## Olá, sou a Tamyres Oliveira! 👋
+## Olá, sou a Tamyres! 👋
 
 <div align="center">
   <a href="https://github.com/Tamyrescso">
