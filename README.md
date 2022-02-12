@@ -16,7 +16,7 @@
   <img align="center" alt="Tamy-Node" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Tamy-Docker" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="Tamy-Jest" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
- 
+ <br/><br/>
   <img align="right" alt="Tamy-avatar" height="150" src="https://s10.gifyu.com/images/Webp.net-gifmakerffadadb7305d4efb.gif">
 </div>
   <br/><br/>
