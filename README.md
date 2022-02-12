@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/Tamyrescso">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Tamyrescso&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamyresCso&layout=compact&langs_count=7&theme=darcula"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Tamyrescso&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamyresCso&layout=compact&langs_count=7&theme=darcula"/>
 </div>
   <br/><br/>
 <div style="display: inline_block" align="center"><br>
