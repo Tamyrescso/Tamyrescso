@@ -1,4 +1,4 @@
-## Olá, sou a Tamyres Oliveira! 👋 desenvolvedora front-end e estudante de back-end!
+## Olá, sou a Tamyres Oliveira! 👋
 
 <div align="center">
   <a href="https://github.com/Tamyrescso">
@@ -18,8 +18,8 @@
  
   <img align="right" alt="Tamy-avatar" height="150" src="https://s10.gifyu.com/images/Webp.net-gifmakerffadadb7305d4efb.gif">
 </div>
-  
-  ##
+
+  ## Meus contatos! 📞
 
 <div align="center"> 
   <a href="https://www.facebook.com/tamyres.caroline" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
@@ -28,19 +28,13 @@
   
    ![Snake animation](https://github.com/Tamyrescso/Tamyrescso/blob/output/github-contribution-grid-snake.svg)
 </div>
+ 
+ ## 👩 Sou desenvolvedora front-end e futura full stack! 💻
+
+- 🌱 Atualmente eu estou aprendendo Node.js.
+- 🤔 Eu aceito qualquer dica para potencializar meus estudos e para começar minha carreira como júnior.
+- 🗣️ Me comunico bem em português e inglês, arranho no francês e espanhol e amo estudar novas línguas e culturas :)
+- 💬 Adoro conversar sobre novidades tecnológicas, séries e filmes de fantasia e *COMIDAAAA!* 🍜
   
-
-<!--
-**Tamyrescso/Tamyrescso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h1 align="center"/> :sparkling_heart: Volte sempre! :sparkling_heart:  </h1>
+ 
