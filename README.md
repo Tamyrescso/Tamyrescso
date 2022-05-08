@@ -21,7 +21,7 @@
 </div>
   <br/><br/>
   
-  ## 👩‍🦰 Desenvolvedora front-end e futura full stack! 💻
+  ## 👩‍🦰 Desenvolvedora Full stack! 💻
   <br/>
 
 <div align="center"> 
@@ -35,7 +35,7 @@
  
  ## Um pouco sobre mim: 🙋‍♀️
 
-- 🌱 Atualmente aprendendo POO.
+- 🌱 Atualmente aprendendo MongoDB.
 - 🤔 Aceito qualquer dica para potencializar meus estudos e para começar minha carreira como júnior.
 - 🗣️ Me comunico bem em português e inglês, arranho no francês e espanhol e amo estudar novas línguas e culturas🇫🇷🇬🇧🇨🇷🇮🇹🇨🇦
 - 💬 Adoro conversar sobre novidades tecnológicas, séries e filmes de fantasia e *COMIDAAAA!* 🍜
