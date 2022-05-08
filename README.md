@@ -21,7 +21,7 @@
 </div>
   <br/><br/>
   
-  ## 👩‍🦰 Desenvolvedora Full stack! 💻
+  ## 👩‍🦰 Desenvolvedora Full stack e eterna estudante! 💻
   <br/>
 
 <div align="center"> 
