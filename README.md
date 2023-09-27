@@ -35,10 +35,10 @@
  
  ## Um pouco sobre mim: 🙋‍♀️
 
-- 🌱 Atualmente aprendendo sobre Kubernetes e GCP.
-- 🤔 Aceito qualquer dica para potencializar meus estudos e para começar minha carreira como júnior.
+- 🌱 Atualmente estudando Java.
+- 🤔 Aceito qualquer dica para potencializar meus estudos.
 - 🗣️ Me comunico bem em português e inglês, arranho no francês e espanhol e amo estudar novas línguas e culturas🇫🇷🇬🇧🇨🇷🇮🇹🇨🇦
-- 💬 Adoro conversar sobre novidades tecnológicas, séries e filmes de fantasia e *COMIDAAAA!* 🍜
+- 💬 Adoro conversar sobre novidades tecnológicas, livros, séries e filmes de fantasia e *COMIDAAAA!* 🍜
   
   <h1 align="center"/> :sparkling_heart: Volte sempre! :sparkling_heart:  </h1>
  
