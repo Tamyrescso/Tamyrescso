@@ -1,7 +1,6 @@
 ## Olá, sou a Tamyres! 👋
 
 <div align="center">
-  <a href="https://github.com/Tamyrescso">
     
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamyresCso&layout=compact&langs_count=7&theme=darcula"/>
 </div>
@@ -29,16 +28,4 @@
   <a href = "mailto:tamyrescaroline.oliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tcso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <br/>
-  
-   ![Snake animation](https://github.com/Tamyrescso/Tamyrescso/blob/output/github-contribution-grid-snake.svg)
-</div>
- 
- ## Um pouco sobre mim: 🙋‍♀️
-
-- 🌱 Atualmente estudando Java.
-- 🤔 Aceito qualquer dica para potencializar meus estudos.
-- 🗣️ Me comunico bem em português e inglês, arranho no francês e espanhol e amo estudar novas línguas e culturas🇫🇷🇬🇧🇨🇷🇮🇹🇨🇦
-- 💬 Adoro conversar sobre novidades tecnológicas, livros, séries e filmes de fantasia e *COMIDAAAA!* 🍜
-  
-  <h1 align="center"/> :sparkling_heart: Volte sempre! :sparkling_heart:  </h1>
  
